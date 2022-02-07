@@ -1,5 +1,3 @@
-# revathy
-#My personal repository
 <h1 align="center">Hi 👋, I'm Revathy!</h1>
 <h3 align="center">Bioinformatian, researcher and developer :microscope: :bar_chart: :computer:</h3>
 
