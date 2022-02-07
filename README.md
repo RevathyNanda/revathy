@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revathy!</h1>
-<h3 align="center">Bioinformatian, researcher and developer :microscope: :bar_chart: :computer:</h3>
+<h3 align="center">Bioinformatcian, researcher and developer :microscope: :bar_chart: :computer:</h3>
 
 My interests are mostly related to cancer research, including bioinformatics, data analysis, data visualization.
 
